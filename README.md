@@ -18,7 +18,7 @@ A YouTube Video Downloader In Bulk Coded In Python
 
 ##### Clone the repository:
 ```
-git clone https://github.com/PixelDev/YT-Downloader.git
+git clone https://github.com/PixelCoutureHub/YT-Downloader.git
 cd YT-Downloader
 ```
 
